@@ -1,0 +1,7 @@
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/Notification.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/NotificationRepository.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/NotificationConfig.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/NotificationApplication.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/NotificationService.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/rabbitMq/NotificationConsumer.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/notification/src/main/java/com/devkenya/notification/NotificationController.java
