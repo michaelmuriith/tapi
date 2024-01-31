@@ -1,6 +1,5 @@
 package com.devkenya.post.model;
 
-import com.devkenya.user.model.User;
 import lombok.*;
 
 import javax.persistence.*;
@@ -18,6 +17,10 @@ public class Post {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private UUID id;
+
+    //author id
+    @Column(name = "user_id", nullable = false)
+    private String userId;
 
     private String content;
     private URI image;
@@ -43,7 +46,4 @@ public class Post {
     @Column(name = "is_deleted", nullable = false, columnDefinition = "boolean default false")
     private boolean isDeleted;
 
-    @ManyToOne
-    @JoinColumn(name = "user_id")
-    private User user;
 }
