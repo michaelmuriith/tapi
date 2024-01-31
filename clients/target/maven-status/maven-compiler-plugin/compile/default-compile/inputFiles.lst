@@ -1,0 +1,5 @@
+/root/tapi/clients/src/main/java/com/devkenya/clients/notification/NotificationClient.java
+/root/tapi/clients/src/main/java/com/devkenya/clients/fraud/FraudClient.java
+/root/tapi/clients/src/main/java/com/devkenya/clients/notification/NotificationRequest.java
+/root/tapi/clients/src/main/java/com/devkenya/clients/fraud/FraudCheckResponse.java
+/root/tapi/clients/src/main/java/com/devkenya/clients/notification/NotificationType.java

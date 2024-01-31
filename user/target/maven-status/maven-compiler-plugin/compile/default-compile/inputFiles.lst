@@ -1,0 +1,15 @@
+/root/tapi/user/src/main/java/com/devkenya/user/dto/res/UserItem.java
+/root/tapi/user/src/main/java/com/devkenya/user/model/User.java
+/root/tapi/user/src/main/java/com/devkenya/user/service/FollowService.java
+/root/tapi/user/src/main/java/com/devkenya/user/dto/res/UserRes.java
+/root/tapi/user/src/main/java/com/devkenya/user/model/LoginType.java
+/root/tapi/user/src/main/java/com/devkenya/user/dto/req/UserRegisterRequest.java
+/root/tapi/user/src/main/java/com/devkenya/user/repository/FollowRepository.java
+/root/tapi/user/src/main/java/com/devkenya/user/UserConfig.java
+/root/tapi/user/src/main/java/com/devkenya/user/model/Follow.java
+/root/tapi/user/src/main/java/com/devkenya/user/repository/UserRepository.java
+/root/tapi/user/src/main/java/com/devkenya/user/dto/res/DiscoverItems.java
+/root/tapi/user/src/main/java/com/devkenya/user/service/UserService.java
+/root/tapi/user/src/main/java/com/devkenya/user/dto/res/DiscoverItem.java
+/root/tapi/user/src/main/java/com/devkenya/user/UserApplication.java
+/root/tapi/user/src/main/java/com/devkenya/user/controller/UserController.java

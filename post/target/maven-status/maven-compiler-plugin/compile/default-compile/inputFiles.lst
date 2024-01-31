@@ -1,0 +1,6 @@
+/root/tapi/post/src/main/java/com/devkenya/post/repository/PostRepository.java
+/root/tapi/post/src/main/java/com/devkenya/post/service/PostService.java
+/root/tapi/post/src/main/java/com/devkenya/post/model/Post.java
+/root/tapi/post/src/main/java/com/devkenya/post/controller/PostController.java
+/root/tapi/post/src/main/java/com/devkenya/post/dto/req/CreatePostReq.java
+/root/tapi/post/src/main/java/com/devkenya/post/PostApplication.java

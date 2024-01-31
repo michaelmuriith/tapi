@@ -37,6 +37,7 @@ services:
       - "9411:9411"
     networks:
       - spring
+    restart: unless-stopped
 
   rabiitmq:
     image: rabbitmq:3.9.11-management-alpine
@@ -47,7 +48,7 @@ services:
     networks:
       - spring
       - devKenya
-
+    restart: unless-stopped
 #  eureka-server:
 #    image: michael258/eureka-server:latest
 #    container_name: eureka-server
