@@ -1,1 +1,18 @@
-#java file
+# Maven target directory
+/target/
+
+# Eclipse-specific files
+*.project
+*.classpath
+*.settings/
+/.factorypath
+
+# IntelliJ-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# NetBeans-specific files
+/nbproject/private/
+build/

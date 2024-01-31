@@ -1,0 +1,6 @@
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/controller/PostController.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/repository/PostRepository.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/PostApplication.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/model/Post.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/service/PostService.java
+/Users/michaelwanjiru/Documents/projects/java/devkenyaApi/post/src/main/java/com/devkenya/post/dto/req/CreatePostReq.java
